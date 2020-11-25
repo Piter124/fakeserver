@@ -1,0 +1,14 @@
+{
+  "count": 2,
+  "events": [
+    {
+      "camEventId": "5fbe3e3748de4b001f3668f3",
+      "date": "2020-11-19T11:32:56.417Z",
+      "probability": "1",
+      "_id": "5fbe3e3748de4b001f3668f3",
+      "image": {
+        "type": "Buffer",
+        }
+     }
+    ]
+}
